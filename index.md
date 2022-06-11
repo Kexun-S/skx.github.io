@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 学习研究
 
-+ ***NOW***: **learning R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
++ ***NOW***：**learning R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
 
 + **2022.03-2022.06："阿尔芬波的参量衰变不稳定性"  | 导师：[仇志勇](https://person.zju.edu.cn/zhiyong)**
 > 讨论理想磁流体中阿尔芬波的不稳定性，用解析与数值结合的方法研究由一个阿尔芬母波生成一个阿尔芬子波、一个声波子波的非线性三波耦合过程.
