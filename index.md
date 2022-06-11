@@ -33,7 +33,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 + 2021.08 the International Polytechnic Summer School of Peter the Great St. Petersburg Polytechnic University  
   > 学习"Plasma Physics and Controlled Fusion"课程；任宣传组组长，负责中英新闻稿撰写.
 
-+ 2021.12 第七届全国大学生物理实验竞赛**一等奖**  
++ 2021.12 第七届全国大学生物理实验竞赛一等奖  
   > 参赛作品为"基于共轴准直光路系统的虹霓特性多参数分析"，任队长.
 
 + 2022.05 浙江大学"三好杯"本科生羽毛球赛  
