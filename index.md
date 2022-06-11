@@ -6,15 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 学习经历
 
-2016-2019 玉环中学 浙江台州
+**2016-2019 玉环中学 浙江台州**
 
-2019-2023 浙江大学 浙江杭州 物理学(求是科学班)
+**2019-2023 浙江大学 浙江杭州 物理学(求是科学班)**
 
 ***
 
 ## 学习研究
 
-+ Now: **learning R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
++ ***NOW***: **learning R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
 
 + **2022.03-2022.06："阿尔芬波的参量衰变不稳定性"  | 导师：[仇志勇](https://person.zju.edu.cn/zhiyong)**
 > 讨论理想磁流体中阿尔芬波的不稳定性，用解析与数值结合的方法研究由一个阿尔芬母波生成一个阿尔芬子波、一个声波子波的非线性三波耦合过程.
@@ -27,10 +27,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 竞赛与活动
 
 + 2022.05：浙江大学"三好杯"本科生羽毛球赛  
-  > 代表物理学院队伍，与搭档陆耘舟获[男子双打第七名](https://mp.weixin.qq.com/s/5MXqAAU2VfWMeZQtuuIeBQ)，[队伍总分获第八名](https://mp.weixin.qq.com/s/zANIu5eBpIxpdwD-kLp-HA).
+  > 代表物理学院队伍，与搭档陆耘舟获[男子双打第七名](https://mp.weixin.qq.com/s/5MXqAAU2VfWMeZQtuuIeBQ)，[队伍总分获第八名](https://mp.weixin.qq.com/s/zANIu5eBpIxpdwD-kLp-HA). 我的首个羽毛球奖项，很有意义.
 
 + 2021.12：[第七届全国大学生物理实验竞赛一等奖](http://wlsycx.moocollege.com/)     
-  > 参赛作品为"基于共轴准直光路系统的虹霓特性多参数分析"，任队长，负责理论推导、数值计算、实验与答辩主讲.
+  > 参赛作品为"基于共轴准直光路系统的虹霓特性多参数分析"，任队长，负责理论推导、数值计算、实验与答辩主讲. 战线长达半年的比赛，是对组织、领导等能力的锻炼.
 
 + 2021.08：the International Polytechnic Summer School of Peter the Great St. Petersburg Polytechnic University  
   > 学习"Plasma Physics and Controlled Fusion"课程，了解等离子体理论、数值模拟、大型聚变实验，以及等离子体物理在空间物理、天体物理中的应用；任宣传组组长，负责中英新闻稿撰写，后发布于学院官方公众号与[学院官网](http://physics.zju.edu.cn/2021/0816/c39060a2415159/page.htm).
@@ -44,7 +44,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 兴趣爱好
 
 + **羽毛球**  
-  - 喜欢单打，但双打黑洞.
+  - 喜欢单打，但双打黑洞. 没事就爱琢磨比赛视频.
   - [第一期打球视频](https://www.bilibili.com/video/BV1br4y1v7Mf?share_source=copy_web).
 
 + **魔方**  
@@ -55,7 +55,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   - 喜欢力量训练(无氧)，但不喜跑步(有氧).
 
 + **高尔夫球**
-  - 2020-2021学年高尔夫球课，熟悉七号铁与一号木，技术还过得去，老师邀请我去球队，但精力不足，只得长期划水.(羞愧状)
+  - 2020-2021学年高尔夫球课，熟悉七号铁与一号木，技术作为初学者还过得去，老师拉我去球队，但精力不足，只得长期划水.(羞愧状)
   - [早期练七号铁视频](https://www.bilibili.com/video/BV1Dv411r7ji?share_source=copy_web).
 
 <!--
