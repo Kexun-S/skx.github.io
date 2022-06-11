@@ -25,7 +25,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 竞赛与活动
 
 + 2019.09-2021.06：浙江大学学生羽毛球协会  
-  > 第一年任活动部干事；第二年任财务负责人兼活动部部长，负责大小比赛活动若干事宜，卸任前归纳总结了从活动立项至后期备案的所有流程指南，供后人参考.
+  > 第一年任活动部干事；第二年任财务负责人兼活动部部长，负责大小比赛活动若干事宜，卸任前归纳总结了从活动立项至后期备案、从财务宝贝到基金答辩的所有流程指南，供后人参考.
+  > 例如[活动部事务讲解](https://www.bilibili.com/video/BV1Uy4y167Zd?share_source=copy_web)、[宣传视频制作](https://www.bilibili.com/video/BV17K4y1Z7sd?share_source=copy_web)……
 
 + 2021.08：the International Polytechnic Summer School of Peter the Great St. Petersburg Polytechnic University  
   > 学习"Plasma Physics and Controlled Fusion"课程，了解等离子体理论、数值模拟、大型聚变实验，以及等离子体物理在空间物理、天体物理中的应用；任宣传组组长，负责中英新闻稿撰写，后发布于学院官方公众号与[学院官网](http://physics.zju.edu.cn/2021/0816/c39060a2415159/page.htm).
@@ -46,6 +47,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 + **健身**
   - 喜欢力量训练(无氧)，但不喜跑步(有氧)
+
++ **高尔夫球**
 
 <!--
 ```markdown
