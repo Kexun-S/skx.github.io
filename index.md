@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 学习研究
 
-+ Now: learning R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.
++ Now: learning R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction. :robot:
 
 + 2021.06-2021.12 "基于ZCS仿星器的磁约束分析与粒子模拟"   导师：傅国勇
 > 在博士学长的研究基础上，学习仿星器线圈构造、静磁场计算算法，用磁力线推进算法实现磁面的可视化与分析，通过仿星器磁轴位置、旋转变换与新经典输运系数的计算研究仿星器约束性质，最后实现了经典轨道与导向中心方程下的单粒子轨道模拟. 主要应用到的算法：梯度下降法，龙哥库塔四阶RK4.
