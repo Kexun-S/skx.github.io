@@ -16,10 +16,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 + Now: **learning R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
 
-+ **2022.03-2022.06 "阿尔芬波的参量衰变不稳定性"   导师：[仇志勇](https://person.zju.edu.cn/zhiyong)**
++ **2022.03-2022.06："阿尔芬波的参量衰变不稳定性"  | 导师：[仇志勇](https://person.zju.edu.cn/zhiyong)**
 > 讨论理想磁流体中阿尔芬波的不稳定性，用解析与数值结合的方法研究由一个阿尔芬母波生成一个阿尔芬子波、一个声波子波的非线性三波耦合过程.
 
-+ **2021.06-2021.12 "基于ZCS仿星器的磁约束分析与粒子模拟"   导师：[傅国勇](https://person.zju.edu.cn/gyfu)**
++ **2021.06-2021.12："基于ZCS仿星器的磁约束分析与粒子模拟"  | 导师：[傅国勇](https://person.zju.edu.cn/gyfu)**
 > 学习仿星器线圈构造、静磁场计算算法，用磁力线推进算法实现磁面的可视化与分析，通过仿星器磁轴位置、旋转变换与新经典输运系数的计算研究仿星器约束性质，最后实现了经典轨道与导向中心方程下的单粒子轨道模拟. 主要应用到的算法：梯度下降法，龙格库塔四阶RK4.
 
 ***
