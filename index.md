@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 学习研究
 
-+ ***NOW***：**learning R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
++ ***NOW：*** **learning R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
 
 + **2022.03-2022.06："阿尔芬波的参量衰变不稳定性"  | 导师：[仇志勇](https://person.zju.edu.cn/zhiyong)**
 > 讨论理想磁流体中阿尔芬波的不稳定性，用解析与数值结合的方法研究由一个阿尔芬母波生成一个阿尔芬子波、一个声波子波的非线性三波耦合过程.
@@ -36,7 +36,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   > 学习"Plasma Physics and Controlled Fusion"课程，了解等离子体理论、数值模拟、大型聚变实验，以及等离子体物理在空间物理、天体物理中的应用；任宣传组组长，负责中英新闻稿撰写，后发布于学院官方公众号与[学院官网](http://physics.zju.edu.cn/2021/0816/c39060a2415159/page.htm).
 
 + 2019.09-2021.06：浙江大学学生羽毛球协会  
-  > 第一年任活动部干事；第二年任财务负责人兼活动部部长，负责大小比赛活动若干事宜，卸任前归纳总结了从活动立项至后期备案、从财务宝贝到基金答辩的所有流程指南，供后人参考.
+  > 第一年任活动部干事；第二年任财务负责人兼活动部部长，负责大小比赛活动若干事宜，卸任前归纳总结了从活动立项至后期备案、从财务清单到基金答辩的所有流程指南，供后人参考.
   > 例如[活动部事务讲解](https://www.bilibili.com/video/BV1Uy4y167Zd?share_source=copy_web)、[宣传视频制作](https://www.bilibili.com/video/BV17K4y1Z7sd?share_source=copy_web)、[2020-2021年浙大羽协"秋季杯"新生赛](https://mp.weixin.qq.com/s/kiPYSukOzIjN3pML6V20Hw)、["冬季杯"双打赛](https://mp.weixin.qq.com/s/_CTKX8mlmw2uOPi7g53dpw)、["春季杯"团体赛](https://mp.weixin.qq.com/s/QLGGSuIXNk4uKIioCXunfg)、["夏季杯"趣味赛](https://mp.weixin.qq.com/s/DXT_I5EfFoJR3V0Rbb-Icg)……
 
 ***
