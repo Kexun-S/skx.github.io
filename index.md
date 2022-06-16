@@ -44,19 +44,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 兴趣爱好
 
 + **羽毛球**  
-  - 喜欢单打，但双打黑洞. 没事就爱琢磨比赛视频.
-  - [第一期打球视频](https://www.bilibili.com/video/BV1br4y1v7Mf?share_source=copy_web).
+  - 喜欢单打，但双打黑洞. 爱看比赛视频.
+  - [Video 1](https://www.bilibili.com/video/BV1br4y1v7Mf?share_source=copy_web).
 
 + **魔方**  
-  - 爱玩3x3,2x2速拧，但菜.
-  - 早期的两则训练视频：[V1](https://www.bilibili.com/video/BV1Up4y1D7bq?share_source=copy_web)，[V2](https://www.bilibili.com/video/BV1yK411n7LW?share_source=copy_web).
+  - 3x3,2x2速拧.
+  - [Video 1](https://www.bilibili.com/video/BV1Up4y1D7bq?share_source=copy_web)，[Video 2](https://www.bilibili.com/video/BV1yK411n7LW?share_source=copy_web).
 
 + **健身**
-  - 喜欢力量训练(无氧)，但不喜跑步(有氧).
 
-+ **高尔夫球**
-  - 2020-2021学年高尔夫球课，熟悉七号铁与一号木，技术作为初学者还过得去，老师拉我去球队，但精力不足，只得长期划水.(羞愧状)
-  - [早期练七号铁视频](https://www.bilibili.com/video/BV1Dv411r7ji?share_source=copy_web).
++ ~~**高尔夫球**~~
+  - ~~[早期练七号铁视频](https://www.bilibili.com/video/BV1Dv411r7ji?share_source=copy_web)~~.
 
 <!--
 ```markdown
