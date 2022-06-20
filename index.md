@@ -52,10 +52,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   - [Video 1](https://www.bilibili.com/video/BV1Up4y1D7bq?share_source=copy_web)，[Video 2](https://www.bilibili.com/video/BV1yK411n7LW?share_source=copy_web).
 
 + **健身**
-
+<!--
 + ~~**高尔夫球**~~
   - ~~[早期练七号铁视频](https://www.bilibili.com/video/BV1Dv411r7ji?share_source=copy_web)~~.
-
+-->
 <!--
 ```markdown
 Syntax highlighted code block
