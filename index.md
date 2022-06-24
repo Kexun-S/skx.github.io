@@ -6,15 +6,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 学习经历
 
-**2016-2019 玉环中学 浙江台州**
-
 **2019-2023 浙江大学 浙江杭州 物理学(求是科学班)**
+
+**2016-2019 玉环中学 浙江台州**
 
 ***
 
 ## 学习研究
 
-+ ***Learning：*** **R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
++ Learning:  **Chen, L., Zonca, F. & Lin, Y. Physics of kinetic Alfvén waves: a gyrokinetic theory approach. Rev. Mod. Plasma Phys. 5, 1 (2021).**
+
++ Learning:  **R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
 
 + **2022.03-2022.06："阿尔芬波的参量衰变不稳定性"  | 导师：[仇志勇](https://person.zju.edu.cn/zhiyong)**
 > 讨论理想磁流体中阿尔芬波的不稳定性，用解析与数值结合的方法研究由一个阿尔芬母波生成一个阿尔芬子波、一个声波子波的非线性三波耦合过程.
