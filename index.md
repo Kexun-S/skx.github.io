@@ -49,6 +49,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   > 第一年任活动部干事；第二年任财务负责人兼活动部部长，负责大小比赛活动若干事宜，卸任前归纳总结了从活动立项至后期备案、从财务清单到基金答辩的所有流程指南，供后人参考.
   > 例如[活动部事务讲解](https://www.bilibili.com/video/BV1Uy4y167Zd?share_source=copy_web)、[宣传视频制作](https://www.bilibili.com/video/BV17K4y1Z7sd?share_source=copy_web)、[2020-2021年浙大羽协"秋季杯"新生赛](https://mp.weixin.qq.com/s/kiPYSukOzIjN3pML6V20Hw)、["冬季杯"双打赛](https://mp.weixin.qq.com/s/_CTKX8mlmw2uOPi7g53dpw)、["春季杯"团体赛](https://mp.weixin.qq.com/s/QLGGSuIXNk4uKIioCXunfg)、["夏季杯"趣味赛](https://mp.weixin.qq.com/s/DXT_I5EfFoJR3V0Rbb-Icg)……
 
+### 技能
+
++ **计算机语言**： MATLAB, Mathematica, Python.
++ **图文处理**：Pr, Ai, Ps, LaTeX, Markdown, Office.
++ **建模**：Solidworks.
++ **英语水平**：580 (CET6).
+
 ***
 
 ### 兴趣爱好
