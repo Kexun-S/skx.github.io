@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 + Learning:  
   - **Chen, L., Zonca, F. & Lin, Y. Physics of kinetic Alfvén waves: a gyrokinetic theory approach. Rev. Mod. Plasma Phys. 5, 1 (2021).**
-  - **Zhiyong Qiu. Theories of Geodesic Acoustic Modes in Tokamak Plasmas. (2010)**
+  - **Zhiyong Qiu. Theories of Geodesic Acoustic Modes in Tokamak Plasmas. (2010). Chapter 2.**
 > 非均匀等离子体中KAW的生成与演化：横向非均匀性导致磁流体中KAW波包的演化，可以与环形等离子体中GAM波包的演化类比
 
 + Learning:  **R. Z. SAGDEEV and A. A. GALEEV, NONLINEAR PLASMA THEORY. Chapter I: Nonlinear Wave-Wave Interaction.**
